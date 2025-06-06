@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "name": "Alan Roybal",
+        "img": "/images/sample1.webp",
+        "bringing": "Pizza",
+        "status": "Going"
+    },
+    {
+        "id": 1,
+        "name": "Salman Jaher",
+        "img": "/images/Salman.webp",
+        "bringing": "N/A",
+        "status": "Can't Go"
+    },
+    {
+        "id": 2,
+        "name": "Purva Pawar",
+        "img": "/images/Purva.webp",
+        "bringing": "N/A",
+        "status": "Unsure"
+    },
+    {
+        "id": 3,
+        "name": "Joshua Das",
+        "img": "/images/Joshua.webp",
+        "bringing": "Chips",
+        "status": "Going"
+    },
+    {
+        "id": 4,
+        "name": "Reiki Hingorani",
+        "img": "/images/Reiki.webp",
+        "bringing": "Lemonade",
+        "status": "Going"
+    },
+    {
+        "id": 5,
+        "name": "Veer Shah",
+        "img": "/images/Veer.webp",
+        "bringing": "N/A",
+        "status": "Unsure"
+    },
+    {
+        "id": 6,
+        "name": "Arjun Kumar",
+        "img": "/images/Arjun.webp",
+        "bringing": "N/A",
+        "status": "Can't Go"
+    },
+    {
+        "id": 7,
+        "name": "Daniel Kim",
+        "img": "/images/Daniel.webp",
+        "bringing": "Honey Packs",
+        "status": "Going"
+    },
+    {
+        "id": 8,
+        "name": "Evan Ngo",
+        "img": "/images/Evan.webp",
+        "bringing": "N/A",
+        "status": "Can't Go"
+    },
+    {
+        "id": 9,
+        "name": "Michael Zhao",
+        "img": "/images/Michael.webp",
+        "bringing": "N/A",
+        "status": "Unsure"
+    }
+]
